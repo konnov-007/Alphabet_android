@@ -4,11 +4,6 @@
     <string name="exit">Exit</string>
     <string name="russian_language">Russian alphabet</string>
     <string name="english_language">English alphabet</string>
-    <string name="english_alph">A - 1 \nB - 2 \nC - 3 \nD - 4 \nE - 5 \nF - 6 \nG - 7 \nH - 8 \nI - 9 \nJ - 10 \nK - 11 \nL - 12 \nM - 13 \nN - 14
-    \nO - 15 \nP - 16 \nQ - 17 \nR - 18 \nS - 19 \nT - 20 \nU - 21 \nV - 22 \nW - 23 \nX - 24 \nY - 25 \nZ - 26 </string>
-    <string name="russian_alph">А - 1\t\t\t\t\tП - 17\nБ - 2\t\t\t\t\tР - 18\nВ - 3\t\t\t\t\tС - 19\nГ - 4\t\t\t\t\tТ - 20
-        \nД - 5\t\t\t\t\tУ - 21\nЕ - 6\t\t\t\t\tФ - 22\nЁ - 7\t\t\t\t\tХ - 23\nЖ - 8\t\t\t\t\tЦ - 24\nЗ - 9\t\t\t\t\tЧ - 25\nИ- 10\t\t\t\t\tШ - 26
-        \nЙ - 11\t\t\t\t\tЬ - 28\nК - 12\t\t\t\t\tЫ - 29\nЛ -13\t\t\t\t\tЪ - 30\nМ - 14\t\t\t\t\tЭ - 31\nН -15\t\t\t\t\tЮ - 32\nО - 16\t\t\t\t\tЯ - 33
-
-    </string>
+    <string name="english_alph">A - 1\t\t\t\t\tO - 15\nB - 2\t\t\t\t\tP - 16\nC - 3\t\t\t\t\tQ - 17\nD - 4\t\t\t\t\tR - 18\nE - 5\t\t\t\t\tS - 19\nF - 6\t\t\t\t\tT - 20\nG - 7\t\t\t\t\tU - 21\nH - 8\t\t\t\t\tV - 22\nI - 9\t\t\t\t\t\tW - 23\nJ - 10\t\t\t\t\tX - 24\nK - 11\t\t\t\t\tY - 25\nL - 12\t\t\t\t\tZ - 26 </string>
+    <string name="russian_alph">А - 1\t\t\t\t\tП - 17\nБ - 2\t\t\t\t\tР - 18\nВ - 3\t\t\t\t\tС - 19\nГ - 4\t\t\t\t\tТ - 20\nД - 5\t\t\t\t\tУ - 21\nЕ - 6\t\t\t\t\tФ - 22\nЁ - 7\t\t\t\t\tХ - 23\nЖ - 8\t\t\t\t\tЦ - 24\nЗ - 9\t\t\t\t\tЧ - 25\nИ- 10\t\t\t\t\tШ - 26\nЙ - 11\t\t\t\t\tЬ - 28\nК - 12\t\t\t\t\tЫ - 29\nЛ -13\t\t\t\t\tЪ - 30\nМ - 14\t\t\t\t\tЭ - 31\nН -15\t\t\t\t\tЮ - 32\nО - 16\t\t\t\t\tЯ - 33</string>
 </resources>
