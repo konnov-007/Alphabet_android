@@ -2,46 +2,60 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_732c6f58f6f79689b2908c909b99bab554d9c103.jar" />
-    </item>
-    <item
-        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_7ceb41aee124b15c991a537398d2866ddc7d3e90.jar" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_56761ddf087e3faa05fdc762b9472e8a4ec52d85\classes.dex" />
     </item>
     <item
         jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_7f855698ed89995d6009d0ef397109c6da5fb41f.jar" />
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_7f855698ed89995d6009d0ef397109c6da5fb41f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a5f0a9c01292e2fc200f7e24dfeab2dbea6fcb22">
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c72b698bc08045c73aed53d1f4bd673d2ac1f3c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_7ceb41aee124b15c991a537398d2866ddc7d3e90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d8a21735f2266cdfdca7a7a7ed8be1b0ee1951b">
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_94ea581c7239cd55806a60f8297cac89b8589aea\classes.dex" />
     </item>
     <item
         jar="C:\Users\Ilya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4ca034b7764385e6c7eb671fbd0cdc97850dc82c.jar" />
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_4ca034b7764385e6c7eb671fbd0cdc97850dc82c\classes.dex" />
     </item>
     <item
         jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d81925316c27780bbe71f33ed21e86c5da482e46.jar" />
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d81925316c27780bbe71f33ed21e86c5da482e46\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_56761ddf087e3faa05fdc762b9472e8a4ec52d85.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Ilya\Desktop\123\alphabet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_732c6f58f6f79689b2908c909b99bab554d9c103\classes.dex" />
     </item>
 
 </items>
